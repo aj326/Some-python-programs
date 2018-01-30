@@ -1,0 +1,1 @@
+ATTRIBUTES = ('upc', 'title', 'rating', 'year', 'stars', 'directors', 'genres')

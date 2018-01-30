@@ -1,0 +1,2 @@
+class MovieException(Exception):
+    pass
